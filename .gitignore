@@ -1,0 +1,7 @@
+data/*
+!data/README.md
+results/
+__pycache__/
+*.pyc
+.DS_Store
+scripts/_ex*.sh
